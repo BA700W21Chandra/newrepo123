@@ -1,3 +1,5 @@
 This Line was added with a TextEdit.
 
 This Line was added with Atom.
+
+This Line was added with Atom in a new branch. 
